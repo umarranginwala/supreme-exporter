@@ -1,0 +1,18 @@
+{
+  "name": "Supreme Exporter",
+  "short_name": "Supreme",
+  "description": "Gujarat exporter of chicory, dehydrated onion & garlic, and cumin-led spices.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a120c",
+  "theme_color": "#2f1a0e",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

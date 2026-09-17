@@ -1,0 +1,19 @@
+# Supreme Exporter
+> Gujarat, India food-ingredient exporter (SUPREME ENTERPRISE · IEC AFAFS5839J)
+
+## Contact
+- Email: info@supremevalves.in
+- Phone/WhatsApp: +91 97732 78770
+- Address: Relief Road, Ahmedabad, Gujarat 380001, India
+
+## Verticals
+- Chicory & coffee ingredients: /products/chicory.html
+- Dehydrated onion & garlic: /products/onion-garlic.html
+- Spices (cumin-led): /products/spices.html
+
+## Key pages
+- Quote: /contact.html
+- FAQ: /faq.html
+- Export guides: /export/
+- Markets: /markets/
+- Sitemap: /sitemap.xml
