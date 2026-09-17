@@ -16,7 +16,9 @@ window.SUPREME_CONFIG = {
   phone: "+919773278770",
   phoneDisplay: "+91 97732 78770",
   address: "Relief Road, Ahmedabad, Gujarat 380001, India",
-  domain: "https://supremeexporter.com",
+  domain: "https://umarranginwala.github.io/supreme-exporter",
+  /** GitHub Pages project path */
+  basePath: "/supreme-exporter",
   /**
    * Lead form: "formsubmit" posts to FormSubmit.co (confirm email once),
    * "mailto" opens the user's email client with a prefilled enquiry.

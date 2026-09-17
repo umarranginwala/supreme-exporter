@@ -125,7 +125,7 @@
       ensureHidden("_captcha", "false");
       ensureHidden("_honey", "");
       // Stay on thank-you if hosted; relative path works on same origin
-      ensureHidden("_next", "/thank-you.html");
+      ensureHidden("_next", "thank-you.html");
     }
 
     form.addEventListener("submit", function (e) {

@@ -3,4 +3,4 @@ Allow: /
 
 Disallow: /thank-you.html
 
-Sitemap: https://supremeexporter.com/sitemap.xml
+Sitemap: https://umarranginwala.github.io/supreme-exporter/sitemap.xml
