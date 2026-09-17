@@ -57,3 +57,7 @@ HTML pages: **45** (export guides folder: **10**)
 - https://gif-inner-survivors-rural.trycloudflare.com
 - Verified 200: `/` `/faq.html` `/contact.html`
 - File: `PREVIEW_URL.txt`
+
+## Stable public site (GitHub Pages)
+- https://umarranginwala.github.io/supreme-exporter/
+- Repo: https://github.com/umarranginwala/supreme-exporter

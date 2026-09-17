@@ -57,3 +57,7 @@ npx vercel --prod
 ## Live preview tunnel (2026-09-17 17:46 UTC)
 - Temporary public URL: https://avenue-exhibits-accommodations-bob.trycloudflare.com
 - Note: trycloudflare tunnels are ephemeral (not for Google ranking). Use Netlify Drop for a stable URL.
+
+## Stable public site (GitHub Pages)
+- https://umarranginwala.github.io/supreme-exporter/
+- Repo: https://github.com/umarranginwala/supreme-exporter

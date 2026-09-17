@@ -25,3 +25,7 @@ See `GO-LIVE.md` for Netlify/Vercel steps, FormSubmit confirmation, and Search C
 - `faq.html` — SEO FAQ + lead CTAs
 - `privacy.html` · `terms.html` — legal
 - `netlify.toml` · `vercel.json` · `_headers` — hosting
+
+## Stable public site (GitHub Pages)
+- https://umarranginwala.github.io/supreme-exporter/
+- Repo: https://github.com/umarranginwala/supreme-exporter
