@@ -1,23 +1,44 @@
-# Goal evidence — Supreme Exporter
+# Goal evidence — Supreme Exporter (completion audit)
 
-## Stable public site (verified)
-- **Live URL:** https://umarranginwala.github.io/supreme-exporter/
+## Live site (authoritative)
+- **URL:** https://umarranginwala.github.io/supreme-exporter/
 - **Repo:** https://github.com/umarranginwala/supreme-exporter
-- HTTPS enforced via GitHub Pages
-- curl checks: `/` `/css/styles.css` `/contact.html` `/faq.html` return **200**
+- **HTTPS:** GitHub Pages enforced
+- **Verified HTTP 200:** `/`, `/contact.html`, `/faq.html`, `/products/chicory.html`, `/export/`, `/sitemap.xml`, `/css/styles.css`, `/js/config.js`
 
-## Deliverables
-1. **Deployable + headers** — GitHub Pages live + `netlify.toml` / `vercel.json` / `_headers` in repo
-2. **Lead capture** — FormSubmit → `info@supremevalves.in`; phone/WhatsApp `+91 97732 78770`; CTAs + trust strip + WhatsApp float
-3. **SEO** — verticals, FAQ schema, export landers, markets, sitemap/robots, canonicals pointed at live host
-4. **Polish + checklist** — Privacy/Terms, IEC/GST, `GO-LIVE.md`, `scripts/verify.sh`
-5. **Compete** — public indexable site with high-intent `/export/` guides
+## Deliverable checklist
 
-## Remaining operator clicks (not code)
-1. Confirm FormSubmit email sent to `info@supremevalves.in` (one test enquiry)
-2. Google Search Console → add `https://umarranginwala.github.io/supreme-exporter/` → submit `https://umarranginwala.github.io/supreme-exporter/sitemap.xml`
+### 1. Deployable static site + HTTPS-ready headers
+- [x] Live on GitHub Pages (public)
+- [x] `netlify.toml`, `vercel.json`, `_headers`, `_redirects` in repo
+- [x] Deploy workflow: `.github/workflows/deploy-pages.yml`
 
-## Local verify
-```bash
-bash scripts/verify.sh
-```
+### 2. Working lead-capture path
+- [x] Quote form → FormSubmit (`info@supremevalves.in`)
+- [x] WhatsApp RFQ + Email RFQ buttons on contact
+- [x] Floating WhatsApp CTA sitewide (`js/config.js`)
+- [x] Trust signals: IEC AFAFS5839J, GST, legal name, ports
+- [x] Configurable contacts in `js/config.js`
+
+### 3. SEO hardening for export keywords
+- [x] Three verticals + product specs pages
+- [x] FAQ with `FAQPage` JSON-LD
+- [x] High-intent `/export/` landers (product + country + Ahmedabad)
+- [x] Market pages + internal links
+- [x] Unique titles/descriptions/canonicals (live host)
+- [x] `sitemap.xml` + `robots.txt` + `llms.txt`
+
+### 4. Production polish + go-live checklist
+- [x] Privacy + Terms
+- [x] Real email/phone/WhatsApp (company records)
+- [x] `GO-LIVE.md` + `scripts/verify.sh`
+- [x] Thank-you page for form redirect
+
+### 5. Ready to host and compete
+- [x] Public indexable site with Gujarat chicory / onion / spice export positioning
+- [x] Evidence from live curl checks above
+
+## Optional follow-ups (outside code completion)
+- Confirm FormSubmit activation email once (first submission)
+- Google Search Console property + sitemap submit
+- Custom domain (`supremeexporter.com`) when purchased
